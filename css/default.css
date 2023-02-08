@@ -1,0 +1,128 @@
+.display{
+    display: flex;
+}
+.wrap{
+    flex-wrap: wrap;
+}
+.flex-direction-column{
+    flex-direction: column;
+}
+.flex-direction-row{
+    flex-direction: row;
+}
+.justify-content-center{
+    justify-content: center;
+}
+.justify-content-space{
+    justify-content: space-between;  
+}
+.justify-content-around{
+    justify-content:space-around;  
+}
+.align-items-center{
+    align-items: center;
+}
+.align-items-right{
+    align-items: right;
+}
+hr{
+    height:100px;
+    align-self: center;
+}
+.gap-15px{
+    display: flex;
+    gap: 15px;
+}
+.margin-top-5{
+    margin-top: 5px;
+}
+.margin-top-10{
+    margin-top: 10px;
+}
+.margin-top-15{
+    margin-top: 15px;
+}
+.margin-top-30{
+    margin-top: 30px;
+}
+.margin-left-10{
+    margin-left: 10px;
+}
+.margin-left-15{
+    margin-left: 15px;
+}
+.margin-left-30{
+    margin-left: 30px;
+}
+.margin-bottom-60{
+    margin-bottom: 60px;
+}
+.margin-bottom-90{
+    margin-bottom: 90px;
+}
+.padding-top-15px{
+    padding: 15px 0px 0px;
+}
+.padding-20px{
+    padding: 20px;
+}
+.text-align-center{
+    text-align: center;
+}
+.text-white{
+    color: white;
+}
+.text-white-16{
+    color: white;
+    font-size: 16px;
+}
+.text-white-12{
+    color: white;
+    font-size: 12px;
+}
+.text-white-18-medium-spacing{
+    color: white;
+    font-size: 18px;
+    font-weight: 400;
+    letter-spacing: 6.9px;
+    margin-right: -6.9px;
+}
+.text-white-18-medium{
+    color: white;
+    font-size: 18px;
+    font-weight: 500;
+}
+.text-white-30-bold{
+    color: white;
+    font-size:30px;
+    font-weight: bold;
+}
+.text-beige-12-medium{
+    color: #A68555;
+    font-size: 14px;
+    font-weight: 500;
+}
+.text-beige-16-medium{
+    color: #A68555;
+    font-size: 16px;
+    font-weight: 500;
+}
+.text-decor-none{
+    text-decoration: none;
+}
+.text-white-medium{
+    color: white;
+    font-size: 12px;
+    font-weight: 500;
+}
+.text-white-medium:hover{
+    font-weight: 700;
+    color: #A68555;
+    cursor: pointer;
+}
+.text-blue{
+    color:#1f2738;
+}
+.width-80vW{
+    width:80vw;
+}
