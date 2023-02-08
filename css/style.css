@@ -63,6 +63,7 @@ header {
 .text-sec1-mobile {
   position: absolute;
   top: 45%;
+  margin-left: 10px;
 }
 .container-valores {
   position: absolute;
@@ -234,6 +235,11 @@ footer {
   .section-1 {
     margin-bottom: 500px;
   }
+}
+@media only screen and (min-width: 550px) {
+    .text-sec1-mobile {
+        margin-left: 0px;
+    }
 }
 @media only screen and (min-width: 620px) {
   #mobile-image {
