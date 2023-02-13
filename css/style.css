@@ -45,6 +45,34 @@ header {
 #logo {
   height: 40px;
 }
+.section-hamb-nav{
+  display: flex;
+  justify-content: center;
+}
+.hamb-nav{
+position: absolute;
+display: flex;
+top: 0px;
+width: 80vw;
+height: 200px;
+z-index: 950;
+padding: 100px 0px 30px;
+background-color: #b69a71;
+border-radius: 5px;
+justify-content: center;
+}
+.wrapper-lista-humb, .lista-humb{
+  display: flex;
+  flex-direction: column;
+  gap: 15px;
+}
+.lista-humb a{
+  color: white;
+  font-size: 25px;
+}
+.lista-humb a:hover{
+  font-weight: 600;
+}
 .section-1 {
   position: relative;
   display: flex;
