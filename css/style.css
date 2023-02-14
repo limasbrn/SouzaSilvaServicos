@@ -53,7 +53,7 @@ header {
   display: none;
 }
 .hamb-nav.active{
-position: absolute;
+position: fixed;
 display:flex;
 top: 0px;
 width: 80vw;
