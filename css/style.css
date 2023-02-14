@@ -291,7 +291,7 @@ footer {
   .footer-container {
     width: 80%;
   }
-  .hamb-nav{
+  .hamb-nav.active{
     width: 60vw;
   }
 }
@@ -320,7 +320,7 @@ footer {
   .valor {
     padding: 15px;
   }
-  .hamb-nav{
+  .hamb-nav.active{
     width: 40vw;
     right:10%;
   }
@@ -362,7 +362,7 @@ footer {
   .info-icon {
     font-size: 14px;
   }
-  .hamb-nav{
+  .hamb-nav.active{
     width: 30vw;
   }
 }
@@ -452,7 +452,7 @@ footer {
   .section-hamb-nav{
     display:none;
   }
-  .hamb-nav{
+  .hamb-nav.active{
     display: none;
   }
 }
